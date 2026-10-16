@@ -1,0 +1,16 @@
+{
+  "raw_csv_sha256": "c0d5706926c6409c0d42630fb5f968ba3d49f12beedb62882f84063e71f47b22",
+  "raw_csv_rows": 64738,
+  "unique_rated_standard_blitz_games": 29385,
+  "sample_games": 600,
+  "seed": 2950,
+  "year": 2026,
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "source_player_list": "https://api.chess.com/pub/country/US/players",
+  "raw_csv_archive": "chess_games_raw.csv.gz",
+  "opening_classification": "Documented label-based family rules in Phase2_Chess.ipynb"
+}
