@@ -1,0 +1,119 @@
+opening_family,rating_group,games,average_white_score
+Bishop's Opening,1500–1999,11,0.5
+Pirc Defense,1000–1499,5,0.6
+Slav Defense,1500–1999,4,0.625
+Four Knights Game,Under 1000,2,0.5
+Van t Kruijs Opening,2000+,1,0.0
+Reti Opening,1500–1999,2,1.0
+King's Pawn Opening,2000+,1,0.0
+King's Pawn Opening,1000–1499,15,0.4666666666666667
+Alekhine's Defense,2000+,37,0.5945945945945946
+Pirc Defense,2000+,7,0.2857142857142857
+Ruy Lopez,1500–1999,2,0.5
+Modern Defense,Under 1000,4,0.5
+Caro-Kann,2000+,8,0.625
+Queen's Gambit,1500–1999,9,0.4444444444444444
+Colle System,1500–1999,2,0.5
+Scotch Game,1500–1999,3,0.6666666666666666
+Sicilian,Under 1000,4,0.375
+Mieses Opening,2000+,1,0.0
+Van Geet Opening,1000–1499,1,1.0
+King's Indian Defense,2000+,14,0.5714285714285714
+Owen's Defense,1500–1999,2,0.5
+Philidor Defense,1000–1499,2,1.0
+Ruy Lopez,Under 1000,1,1.0
+Grob Opening,Under 1000,1,1.0
+Semi Slav Defense,1500–1999,2,0.5
+Modern Defense,1500–1999,2,1.0
+Scotch Game,Under 1000,2,0.0
+French,2000+,7,0.42857142857142855
+Sicilian,1500–1999,41,0.524390243902439
+Indian Game,1000–1499,4,0.5
+Scandinavian,1000–1499,3,0.6666666666666666
+Nimzowitsch Defense,Under 1000,1,1.0
+Queen's Gambit,Under 1000,3,0.6666666666666666
+Old Benoni Defense,1000–1499,1,0.0
+Colle System,Under 1000,1,1.0
+Grunfeld Defense,1500–1999,1,0.0
+King's Fianchetto Opening,Under 1000,11,0.5454545454545454
+Scandinavian,2000+,6,0.75
+French,1000–1499,14,0.6428571428571429
+Queen's Pawn Opening,Under 1000,25,0.58
+Italian,Under 1000,4,0.75
+English Opening,1500–1999,2,0.5
+Vienna Game,Under 1000,3,1.0
+Indian Game,2000+,4,0.875
+King's Gambit,Under 1000,1,1.0
+Sicilian,1000–1499,15,0.3333333333333333
+Nimzowitsch Larsen Attack,2000+,2,0.0
+Van Geet Opening,Under 1000,5,0.2
+Indian Game,1500–1999,7,0.42857142857142855
+Scandinavian,1500–1999,3,0.8333333333333334
+English Opening,2000+,2,0.75
+Bishop's Opening,1000–1499,5,0.6
+Pirc Defense,1500–1999,6,0.6666666666666666
+Reti Opening,1000–1499,7,0.8571428571428571
+King's Indian Defense,Under 1000,2,0.0
+Italian,1500–1999,10,0.35
+Queen's Pawn Opening,1500–1999,4,0.5
+Mieses Opening,1000–1499,1,1.0
+Englund Gambit,1000–1499,2,0.75
+Caro-Kann,1000–1499,4,1.0
+Bird's Opening,1500–1999,3,0.6666666666666666
+King's Fianchetto Opening,1500–1999,1,1.0
+Pirc Defense,Under 1000,5,0.2
+King's Indian Defense,1500–1999,1,1.0
+Modern Defense,2000+,1,0.5
+King's Gambit,2000+,1,1.0
+Vienna Game,2000+,12,0.4166666666666667
+Scandinavian,Under 1000,14,0.32142857142857145
+Colle System,1000–1499,1,1.0
+Queen's Pawn Opening,2000+,3,0.3333333333333333
+Old Benoni Defense,Under 1000,1,0.0
+Nimzowitsch Defense,1000–1499,1,1.0
+Indian Game,Under 1000,4,0.375
+Petrov's Defense,1500–1999,1,0.0
+Scotch Game,1000–1499,1,0.0
+Queen's Gambit,1000–1499,1,1.0
+Polish Opening,1000–1499,15,0.5666666666666667
+King's Pawn Opening,Under 1000,11,0.6363636363636364
+Modern Defense,1000–1499,16,0.5625
+Van t Kruijs Opening,Under 1000,10,0.5
+Owen's Defense,1000–1499,8,0.375
+Center Game,1500–1999,1,1.0
+Dutch Defense,Under 1000,1,1.0
+Benoni Defense,1500–1999,1,1.0
+French,Under 1000,6,0.5
+Italian,1000–1499,3,0.6666666666666666
+Scotch Game,2000+,1,1.0
+Caro-Kann,1500–1999,3,1.0
+Queen's Pawn Opening,1000–1499,12,0.3333333333333333
+Englund Gambit,1500–1999,5,0.4
+King's Fianchetto Opening,1000–1499,3,0.3333333333333333
+Vienna Game,1000–1499,1,1.0
+King's Gambit,1000–1499,1,1.0
+Nimzowitsch Defense,2000+,1,1.0
+Queen's Gambit,2000+,1,1.0
+Nimzo-Indian Defense,1500–1999,3,0.6666666666666666
+Slav Defense,Under 1000,2,0.5
+Reti Opening,Under 1000,6,0.5833333333333334
+Saragossa Opening,1000–1499,1,0.0
+Bishop's Opening,Under 1000,5,0.3
+French,1500–1999,7,0.14285714285714285
+English Opening,1000–1499,4,0.75
+Sicilian,2000+,32,0.515625
+Mieses Opening,Under 1000,1,1.0
+Nimzowitsch Larsen Attack,1000–1499,2,0.0
+Caro-Kann,Under 1000,6,1.0
+London,2000+,1,1.0
+Ponziani Opening,1500–1999,1,1.0
+Englund Gambit,Under 1000,3,1.0
+King's Pawn Opening,1500–1999,6,0.08333333333333333
+Grob Opening,1000–1499,1,0.0
+Center Game,Under 1000,3,0.6666666666666666
+Bishop's Opening,2000+,4,0.5
+Slav Defense,2000+,1,1.0
+Dutch Defense,1500–1999,2,0.5
+Van t Kruijs Opening,1500–1999,1,1.0
+Reti Opening,2000+,2,0.0
+Philidor Defense,Under 1000,1,1.0
